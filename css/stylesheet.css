@@ -18,9 +18,14 @@ font-size: 20px;
   float: left;
   background-color: skyblue;
   border: solid;
+  padding: 5px;
+  margin: 10px 20px;
+
 
 }
 
 img {
   float: right;
+  padding: 10px;
+
 }
